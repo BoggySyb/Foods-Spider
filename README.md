@@ -1,7 +1,5 @@
 ## 爬虫作业—对[美食杰](https://www.meishij.net)网站的美食数据爬取
 
-[代码仓库](https://github.com/BoggySyb/Foods-Spider)  孙宇博
-
 ![image-20231030201241146](https://p.ipic.vip/2sna59.png)
 
 #### 项目介绍：
